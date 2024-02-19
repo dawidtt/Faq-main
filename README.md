@@ -26,11 +26,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Faq-main](https://dawidtt.github.io/faq-main/)
+- Solution URL: [Faq-main](https://dawidtt.github.io/Faq-main/)
 
 ## My process
 
