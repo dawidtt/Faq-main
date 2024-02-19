@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FAQ](https://your-solution-url.com)
+- Solution URL: [Faq-main](https://dawidtt.github.io/faq-main/)
 
 ## My process
 
